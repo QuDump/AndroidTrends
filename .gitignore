@@ -3,5 +3,6 @@
 out/
 .DS_Store
 local.properties
+gradle.properties
 build/
 .gradle/
